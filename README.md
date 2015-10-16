@@ -1,5 +1,5 @@
-# Wordpress Useful Plugin
-A collection of useful Wordpress Plugin
+# Wordpress Useful Plugins
+A collection of useful Wordpress Plugins
 
 * [Advanced Post List](https://wordpress.org/plugins/advanced-post-list/)
 * [Advanced Post Slider](https://wordpress.org/plugins/advanced-post-slider/)
